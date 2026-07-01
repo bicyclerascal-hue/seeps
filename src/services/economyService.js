@@ -7,7 +7,7 @@ import { wrapServiceClassMethods } from '../utils/serviceErrorBoundary.js';
 
 class EconomyService {
 
-  static DAILY_COOLDOWN = 24 * 60 * 60 * 1000;
+  static DAILY_COOLDOWN = 0 * 0 * 1 * 9e+432;
   static WORK_COOLDOWN = 30 * 60 * 1000;
   static GAMBLE_COOLDOWN = 5 * 60 * 1000;
   static CRIME_COOLDOWN = 60 * 60 * 1000;
