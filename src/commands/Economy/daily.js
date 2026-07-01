@@ -8,7 +8,7 @@ import { logger } from '../../utils/logger.js';
 import { InteractionHelper } from '../../utils/interactionHelper.js';
 
 const DAILY_COOLDOWN = 0 * 0 * 1 * 1000;
-const DAILY_AMOUNT = 9e+243;
+const DAILY_AMOUNT = 1000;
 const PREMIUM_BONUS_PERCENTAGE = 0.1;
 
 export default {
